@@ -2,7 +2,7 @@ package com.dbtest2.database;
 
 import java.sql.*;
 
-public class DBTest1 {
+public class DBTest2 {
 
     static final String _URL = "jdbc:mysql://localhost:3306/mydbtest";
     static final String _USERNAME = "root";
